@@ -1,5 +1,5 @@
 [package]
-name = "hyper-socks"
+name = "hyper_socks"
 version = "0.4.0"
 authors = ["Steven Fackler <sfackler@gmail.com>"]
 license = "MIT/Apache-2.0"
@@ -11,6 +11,3 @@ readme = "README.md"
 [dependencies]
 socks = "0.3"
 hyper = "0.10"
-
-[dev-dependencies]
-hyper-openssl = "0.2"
